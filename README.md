@@ -6,18 +6,17 @@
 
 ```javascript
 const Shreyansh = {
-  skills: ["Software Developer", "Frontend Developer", "Programmer"],
+  skills: ["Software Developer", "Full Stack Developer", "MERN Developer"],
   programming: {
     languages: [
+      "HTML5",
+      "CSS3",
       "Javascript",
       "ReactJs",
       "NodeJs",
-      "PHP",
-      "Java",
-      "Python",
+      "ExpressJS",
       "Tailwind CSS",
       "Django",
-      "Hibernate",
     ],
     databases: ["MySQL", "Mongo DB", "SQLite"],
     tools: ["React", "Firebase"],
